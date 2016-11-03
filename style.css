@@ -1,0 +1,23 @@
+* {
+	text-align: center;
+}
+
+body {
+	max-width: 50%
+}
+
+h1, h2 {
+	color: #296FFF;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+h4 {
+	font-family: sans-serif;
+    color: #545050;
+}
+
+p {
+    	font-family: sans-serif;
+    	color: gray;
+}
+

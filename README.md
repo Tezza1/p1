@@ -14,8 +14,10 @@ The project can be found at: [p2](http://www.terrywebdev.me/p2/)
 This project uses the Laravel fraemwork to implement:
 + a random user generator
 + lorem ipsum text
-The project can be found at: [p3](#) 
+The project can be found at: [p3](http://p3.terrywebdev.me) 
 
 ## p4
-TBA
-The project can be found at: [p4](#) 
+This project uses the Laravel framework to implement a client tracker. It includes
++ 2 joined databases 
++ CRUD operations on the database 
+The project can be found at: [p4](http://p4.terrywebdev.me) 
